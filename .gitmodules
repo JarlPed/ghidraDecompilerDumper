@@ -1,0 +1,3 @@
+[submodule "GEARSHIFT"]
+	path = GEARSHIFT
+	url = https://github.com/grimm-co/GEARSHIFT.git
